@@ -1,6 +1,6 @@
 package com.locations.util;
 
-import java.util.Date;
+
 
 import javax.mail.MessagingException;
 import javax.mail.internet.MimeMessage;
